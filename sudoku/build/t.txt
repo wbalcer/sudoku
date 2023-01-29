@@ -1,0 +1,5 @@
+player1 370
+hlsa 466
+gracz4 512
+player5 644
+wojtek 818
